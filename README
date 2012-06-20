@@ -1,0 +1,7 @@
+A small PHP CSS preparser with no crazy server-side dependencies to use
+
+Simply place in the root of your ./css directory and include your css files with a ? infront of the filename like so:
+
+	<link href='./css/?layout.css' rel='stylesheet' type='text/css' />
+
+Magic.
